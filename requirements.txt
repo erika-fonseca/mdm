@@ -1,0 +1,7 @@
+streamlit>=1.40.1
+streamlit-extras
+pandas
+databricks-sql-connector
+databricks-sdk
+deltalake
+databricks-connect==15.1.*
